@@ -1,0 +1,15 @@
+{
+  "entity_sounds": {
+    "entities": {
+      "creeper": {
+        "events": {
+          "fuse": {
+            "sound": "random.fusenodelay",
+            "volume": 1.0,
+            "pitch": 1.0
+          }
+        }
+      }
+    }
+  }
+}

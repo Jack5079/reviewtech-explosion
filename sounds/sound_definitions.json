@@ -1,0 +1,23 @@
+{
+  "format_version": "1.14.0",
+  "sound_definitions": {
+    "random.fuse": {
+      "category": "block",
+      "sounds": [
+        {
+          "name": "sounds/random/fuse",
+          "load_on_low_memory": true
+        }
+      ]
+    },
+    "random.fusenodelay": {
+      "category": "block",
+      "sounds": [
+        {
+          "name": "sounds/random/fusenodelay",
+          "load_on_low_memory": true
+        }
+      ]
+    }
+  }
+}
